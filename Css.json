@@ -1,0 +1,670 @@
+[
+    {
+        "property": "animation",
+        "Description": "Specifies the keyframe-based animations"
+    },
+    {
+        "property": "animation-delay",
+        "Description": "Specifies when the animation will start"
+    },
+    {
+        "property": "animation-direction",
+        "Description": "Specifies whether the animation should play in reverse on alternate cycles or not"
+    },
+    {
+        "property": "animation-duration",
+        "Description": "Specifies the number of seconds or milliseconds an animation should take to complete one cycle"
+    },
+    {
+        "property": "animation-fill-mode",
+        "Description": "Specifies how a CSS animation should apply styles to its target before and after it is executing"
+    },
+    {
+        "property": "animation-iteration-count",
+        "Description": "Specifies the number of times an animation cycle should be played before stopping"
+    },
+    {
+        "property": "animation-name",
+        "Description": "Specifies the name of @keyframes defined animations that should be applied to the selected element"
+    },
+    {
+        "property": "animation-play-state",
+        "Description": "Specifies whether the animation is running or paused"
+    },
+    {
+        "property": "animation-timing-function",
+        "Description": "Specifies how a CSS animation should progress over the duration of each cycle"
+    },
+    {
+        "property": "background",
+        "Description": "Defines a variety of background properties within one declaration"
+    },
+    {
+        "property": "background-attachment",
+        "Description": "Specify whether the background image is fixed in the viewport or scrolls"
+    },
+    {
+        "property": "background-clip",
+        "Description": "Specifies the painting area of the background"
+    },
+    {
+        "property": "background-color",
+        "Description": "Defines an element's background color"
+    },
+    {
+        "property": "background-image",
+        "Description": "Defines an element's background image"
+    },
+    {
+        "property": "background-origin",
+        "Description": "Specifies the positioning area of the background images"
+    },
+    {
+        "property": "background-position",
+        "Description": "Defines the origin of a background image"
+    },
+    {
+        "property": "background-repeat",
+        "Description": "Specify whether/how the background image is tiled"
+    },
+    {
+        "property": "background-size",
+        "Description": "Specifies the size of the background images"
+    },
+    {
+        "property": "border",
+        "Description": "Sets the width, style, and color for all four sides of an element's border"
+    },
+    {
+        "property": "border-bottom",
+        "Description": "Sets the width, style, and color of the bottom border of an element"
+    },
+    {
+        "property": "border-bottom-color",
+        "Description": "Sets the color of the bottom border of an element"
+    },
+    {
+        "property": "border-bottom-left-radius",
+        "Description": "Defines the shape of the bottom-left border corner of an element"
+    },
+    {
+        "property": "border-bottom-right-radius",
+        "Description": "Defines the shape of the bottom-right border corner of an element"
+    },
+    {
+        "property": "border-bottom-style",
+        "Description": "Sets the style of the bottom border of an element"
+    },
+    {
+        "property": "border-bottom-width",
+        "Description": "Sets the width of the bottom border of an element"
+    },
+    {
+        "property": "border-color",
+        "Description": "Sets the color of the border on all the four sides of an element"
+    },
+    {
+        "property": "border-image",
+        "Description": "Specifies how an image is to be used in place of the border styles"
+    },
+    {
+        "property": "border-image-outset",
+        "Description": "Specifies the amount by which the border image area extends beyond the border box"
+    },
+    {
+        "property": "border-image-repeat",
+        "Description": "Specifies whether the image-border should be repeated, rounded or stretched"
+    },
+    {
+        "property": "border-image-slice",
+        "Description": "Specifies the inward offsets of the image-border"
+    },
+    {
+        "property": "border-image-source",
+        "Description": "Specifies the location of the image to be used as a border"
+    },
+    {
+        "property": "border-image-width",
+        "Description": "Specifies the width of the image-border"
+    },
+    {
+        "property": "border-left",
+        "Description": "Sets the width, style, and color of the left border of an element"
+    },
+    {
+        "property": "border-left-color",
+        "Description": "Sets the color of the left border of an element"
+    },
+    {
+        "property": "border-left-style",
+        "Description": "Sets the style of the left border of an element"
+    },
+    {
+        "property": "border-left-width",
+        "Description": "Sets the width of the left border of an element"
+    },
+    {
+        "property": "border-radius",
+        "Description": "Defines the shape of the border corners of an element"
+    },
+    {
+        "property": "border-right",
+        "Description": "Sets the width, style, and color of the right border of an element"
+    },
+    {
+        "property": "border-right-color",
+        "Description": "Sets the color of the right border of an element"
+    },
+    {
+        "property": "border-right-style",
+        "Description": "Sets the style of the right border of an element"
+    },
+    {
+        "property": "border-right-width",
+        "Description": "Sets the width of the right border of an element"
+    },
+    {
+        "property": "border-style",
+        "Description": "Sets the style of the border on all the four sides of an element"
+    },
+    {
+        "property": "border-top",
+        "Description": "Sets the width, style, and color of the top border of an element"
+    },
+    {
+        "property": "border-top-color",
+        "Description": "Sets the color of the top border of an element"
+    },
+    {
+        "property": "border-top-left-radius",
+        "Description": "Defines the shape of the top-left border corner of an element"
+    },
+    {
+        "property": "border-top-right-radius",
+        "Description": "Defines the shape of the top-right border corner of an element"
+    },
+    {
+        "property": "border-top-style",
+        "Description": "Sets the style of the top border of an element"
+    },
+    {
+        "property": "border-top-width",
+        "Description": "Sets the width of the top border of an element"
+    },
+    {
+        "property": "border-width",
+        "Description": "Sets the width of the border on all the four sides of an element"
+    },
+    {
+        "property": "box-shadow",
+        "Description": "Applies one or more drop-shadows to the element's box"
+    },
+    {
+        "property": "box-sizing",
+        "Description": "Alter the default CSS box model"
+    },
+    {
+        "property": "color",
+        "Description": "Specify the color of the text of an element"
+    },
+    {
+        "property": "cursor",
+        "Description": "Specify the type of cursor"
+    },
+    {
+        "property": "opacity",
+        "Description": "Specifies the transparency of an element"
+    },
+    {
+        "property": "height",
+        "Description": "Specify the height of an element"
+    },
+    {
+        "property": "max-height",
+        "Description": "Specify the maximum height of an element"
+    },
+    {
+        "property": "max-width",
+        "Description": "Specify the maximum width of an element"
+    },
+    {
+        "property": "min-height",
+        "Description": "Specify the minimum height of an element"
+    },
+    {
+        "property": "min-width",
+        "Description": "Specify the minimum width of an element"
+    },
+    {
+        "property": "width",
+        "Description": "Specify the width of an element"
+    },
+    {
+        "property": "content",
+        "Description": "Inserts generated content"
+    },
+    {
+        "property": "quotes",
+        "Description": "Specifies quotation marks for embedded quotations"
+    },
+    {
+        "property": "counter-reset",
+        "Description": "Creates or resets one or more counters"
+    },
+    {
+        "property": "counter-increment",
+        "Description": "Increments one or more counter values"
+    },
+    {
+        "property": "align-content",
+        "Description": "Specifies the alignment of flexible container's items within the flex container"
+    },
+    {
+        "property": "align-items",
+        "Description": "Specifies the default alignment for items within the flex container"
+    },
+    {
+        "property": "align-self",
+        "Description": "Specifies the alignment for selected items within the flex container"
+    },
+    {
+        "property": "flex",
+        "Description": "Specifies the components of a flexible length"
+    },
+    {
+        "property": "flex-basis",
+        "Description": "Specifies the initial main size of the flex item"
+    },
+    {
+        "property": "flex-direction",
+        "Description": "Specifies the direction of the flexible items"
+    },
+    {
+        "property": "flex-flow",
+        "Description": "A shorthand property for the flex-direction and the flex-wrap properties"
+    },
+    {
+        "property": "flex-grow",
+        "Description": "Specifies how the flex item will grow relative to the other items inside the flex container"
+    },
+    {
+        "property": "flex-shrink",
+        "Description": "Specifies how the flex item will shrink relative to the other items inside the flex container"
+    },
+    {
+        "property": "flex-wrap",
+        "Description": "Specifies whether the flexible items should wrap or not"
+    },
+    {
+        "property": "justify-content",
+        "Description": "Specifies how flex items are aligned along the main axis of the flex container after any flexible lengths and auto margins have been resolved"
+    },
+    {
+        "property": "order",
+        "Description": "Specifies the order in which a flex items are displayed and laid out within a flex container"
+    },
+    {
+        "property": "font",
+        "Description": "Defines a variety of font properties within one declaration"
+    },
+    {
+        "property": "font-family",
+        "Description": "Defines a list of fonts for element"
+    },
+    {
+        "property": "font-size",
+        "Description": "Defines the font size for the text"
+    },
+    {
+        "property": "font-size-adjust",
+        "Description": "Preserves the readability of text when font fallback occurs"
+    },
+    {
+        "property": "font-stretch",
+        "Description": "Selects a normal, condensed, or expanded face from a font"
+    },
+    {
+        "property": "font-style",
+        "Description": "Defines the font style for the text"
+    },
+    {
+        "property": "font-variant",
+        "Description": "Specify the font variant"
+    },
+    {
+        "property": "font-weight",
+        "Description": "Specify the font weight of the text"
+    },
+    {
+        "property": "list-style",
+        "Description": "Defines the display style for a list and list elements"
+    },
+    {
+        "property": "list-style-image",
+        "Description": "Specifies the image to be used as a list-item marker"
+    },
+    {
+        "property": "list-style-position",
+        "Description": "Specifies the position of the list-item marker"
+    },
+    {
+        "property": "list-style-type",
+        "Description": "Specifies the marker style for a list-item"
+    },
+    {
+        "property": "margin",
+        "Description": "Sets the margin on all four sides of the element"
+    },
+    {
+        "property": "margin-bottom",
+        "Description": "Sets the bottom margin of the element"
+    },
+    {
+        "property": "margin-left",
+        "Description": "Sets the left margin of the element"
+    },
+    {
+        "property": "margin-right",
+        "Description": "Sets the right margin of the element"
+    },
+    {
+        "property": "margin-top",
+        "Description": "Sets the top margin of the element"
+    },
+    {
+        "property": "column-count",
+        "Description": "Specifies the number of columns in a multi-column element"
+    },
+    {
+        "property": "column-fill",
+        "Description": "Specifies how columns will be filled"
+    },
+    {
+        "property": "column-gap",
+        "Description": "Specifies the gap between the columns in a multi-column element"
+    },
+    {
+        "property": "column-rule",
+        "Description": "Specifies a straight line, or \"rule\", to be drawn between each column in a multi-column element"
+    },
+    {
+        "property": "column-rule-color",
+        "Description": "Specifies the color of the rules drawn between columns in a multi-column layout"
+    },
+    {
+        "property": "column-rule-style",
+        "Description": "Specifies the style of the rule drawn between the columns in a multi-column layout"
+    },
+    {
+        "property": "column-rule-width",
+        "Description": "Specifies the width of the rule drawn between the columns in a multi-column layout"
+    },
+    {
+        "property": "column-span",
+        "Description": "Specifies how many columns an element spans across in a multi-column layout"
+    },
+    {
+        "property": "column-width",
+        "Description": "Specifies the optimal width of the columns in a multi-column element"
+    },
+    {
+        "property": "columns",
+        "Description": "A shorthand property for setting column-width and column-count properties"
+    },
+    {
+        "property": "outline",
+        "Description": "Sets the width, style, and color for all four sides of an element's outline"
+    },
+    {
+        "property": "outline-color",
+        "Description": "Sets the color of the outline"
+    },
+    {
+        "property": "outline-offset",
+        "Description": "Set the space between an outline and the border edge of an element"
+    },
+    {
+        "property": "outline-style",
+        "Description": "Sets a style for an outline"
+    },
+    {
+        "property": "outline-width",
+        "Description": "Sets the width of the outline"
+    },
+    {
+        "property": "padding",
+        "Description": "Sets the padding on all four sides of the element"
+    },
+    {
+        "property": "padding-bottom",
+        "Description": "Sets the padding to the bottom side of an element"
+    },
+    {
+        "property": "padding-left",
+        "Description": "Sets the padding to the left side of an element"
+    },
+    {
+        "property": "padding-right",
+        "Description": "Sets the padding to the right side of an element"
+    },
+    {
+        "property": "padding-top",
+        "Description": "Sets the padding to the top side of an element"
+    },
+    {
+        "property": "page-break-after",
+        "Description": "Insert a page breaks after an element"
+    },
+    {
+        "property": "page-break-before",
+        "Description": "Insert a page breaks before an element"
+    },
+    {
+        "property": "page-break-inside",
+        "Description": "Insert a page breaks inside an element"
+    },
+    {
+        "property": "border-collapse",
+        "Description": "Specifies whether table cell borders are connected or separated"
+    },
+    {
+        "property": "border-spacing",
+        "Description": "Sets the spacing between the borders of adjacent table cells"
+    },
+    {
+        "property": "caption-side",
+        "Description": "Specify the position of table's caption"
+    },
+    {
+        "property": "empty-cells",
+        "Description": "Show or hide borders and backgrounds of empty table cells"
+    },
+    {
+        "property": "table-layout",
+        "Description": "Specifies a table layout algorithm"
+    },
+    {
+        "property": "direction",
+        "Description": "Define the text direction/writing direction"
+    },
+    {
+        "property": "tab-size",
+        "Description": "Specifies the length of the tab character"
+    },
+    {
+        "property": "text-align",
+        "Description": "Sets the horizontal alignment of inline content"
+    },
+    {
+        "property": "text-align-last",
+        "Description": "Specifies how the last line of a block or a line right before a forced line break is aligned when text-align is justify"
+    },
+    {
+        "property": "text-decoration",
+        "Description": "Specifies the decoration added to text"
+    },
+    {
+        "property": "text-decoration-color",
+        "Description": "Specifies the color of the text-decoration-line"
+    },
+    {
+        "property": "text-decoration-line",
+        "Description": "Specifies what kind of line decorations are added to the element"
+    },
+    {
+        "property": "text-decoration-style",
+        "Description": "Specifies the style of the lines specified by the text-decoration-line property"
+    },
+    {
+        "property": "text-indent",
+        "Description": "Indent the first line of text"
+    },
+    {
+        "property": "text-justify",
+        "Description": "Specifies the justification method to use when the text-align property is set to justify"
+    },
+    {
+        "property": "text-overflow",
+        "Description": "Specifies how the text content will be displayed, when it overflows the block containers"
+    },
+    {
+        "property": "text-shadow",
+        "Description": "Applies one or more shadows to the text content of an element"
+    },
+    {
+        "property": "text-transform",
+        "Description": "Transforms the case of the text"
+    },
+    {
+        "property": "line-height",
+        "Description": "Sets the height between lines of text"
+    },
+    {
+        "property": "vertical-align",
+        "Description": "Sets the vertical positioning of an element relative to the current text baseline"
+    },
+    {
+        "property": "letter-spacing",
+        "Description": "Sets the extra spacing between letters"
+    },
+    {
+        "property": "word-spacing",
+        "Description": "Sets the spacing between words"
+    },
+    {
+        "property": "white-space",
+        "Description": "Specifies how white space inside the element is handled"
+    },
+    {
+        "property": "word-break",
+        "Description": "Specifies how to break lines within words"
+    },
+    {
+        "property": "word-wrap",
+        "Description": "Specifies whether to break words when the content overflows the boundaries of its container"
+    },
+    {
+        "property": "backface-visibility",
+        "Description": "Specifies whether or not the \"back\" side of a transformed element is visible when facing the user"
+    },
+    {
+        "property": "perspective",
+        "Description": "Defines the perspective from which all child elements of the object are viewed"
+    },
+    {
+        "property": "perspective-origin",
+        "Description": "Defines the origin (the vanishing point for the 3D space) for the perspective property"
+    },
+    {
+        "property": "transform",
+        "Description": "Applies a 2D or 3D transformation to an element"
+    },
+    {
+        "property": "transform-origin",
+        "Description": "Defines the origin of transformation for an element"
+    },
+    {
+        "property": "transform-style",
+        "Description": "Specifies how nested elements are rendered in 3D space"
+    },
+    {
+        "property": "transition",
+        "Description": "Defines the transition between two states of an element"
+    },
+    {
+        "property": "transition-delay",
+        "Description": "Specifies when the transition effect will start"
+    },
+    {
+        "property": "transition-duration",
+        "Description": "Specifies the number of seconds or milliseconds a transition effect should take to complete"
+    },
+    {
+        "property": "transition-property",
+        "Description": "Specifies the names of the CSS properties to which a transition effect should be applied"
+    },
+    {
+        "property": "transition-timing-function",
+        "Description": "Specifies the speed curve of the transition effect"
+    },
+    {
+        "property": "display",
+        "Description": "Specifies how an element is displayed onscreen"
+    },
+    {
+        "property": "position",
+        "Description": "Specifies how an element is positioned"
+    },
+    {
+        "property": "top",
+        "Description": "Specify the location of the top edge of the positioned element"
+    },
+    {
+        "property": "right",
+        "Description": "Specify the location of the right edge of the positioned element"
+    },
+    {
+        "property": "bottom",
+        "Description": "Specify the location of the bottom edge of the positioned element"
+    },
+    {
+        "property": "left",
+        "Description": "Specify the location of the left edge of the positioned element"
+    },
+    {
+        "property": "float",
+        "Description": "Specifies whether or not a box should float"
+    },
+    {
+        "property": "clear",
+        "Description": "Specifies the placement of an element in relation to floating elements"
+    },
+    {
+        "property": "z-index",
+        "Description": "Specifies a layering or stacking order for positioned elements"
+    },
+    {
+        "property": "overflow",
+        "Description": "Specifies the treatment of content that overflows the element's box"
+    },
+    {
+        "property": "overflow-x",
+        "Description": "Specifies how to manage the content when it overflows the width of the element's content area"
+    },
+    {
+        "property": "overflow-y",
+        "Description": "Specifies how to manage the content when it overflows the height of the element's content area"
+    },
+    {
+        "property": "resize",
+        "Description": "Specifies whether or not an element is resizable by the user"
+    },
+    {
+        "property": "clip",
+        "Description": "Defines the clipping region"
+    },
+    {
+        "property": "visibility",
+        "Description": "Specifies whether or not an element is visible"
+    }
+]
