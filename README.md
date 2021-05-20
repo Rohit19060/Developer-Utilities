@@ -95,6 +95,8 @@ cd Developer-Utilities
 
 > [`Reset Screenshot Counter.reg`](https://github.com/Rohit19060/Developer-Utilities/blob/main/Reset%20Screenshot%20Counter.reg "Reset Screenshot Counter"): A Regex file for resetting the screenshot counter of windows.
 
+> [`Alt Code.md`](https://github.com/Rohit19060/Developer-Utilities/blob/main/Alt%20Code.md "Alt Codes"): A Regex file for resetting the screenshot counter of windows.
+
 ## 🎊 Future Updates
 
 - [x] Add More Utilities
