@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Rohit19060/Developer-Utilities/blob/main/Emoji.md" title="Developer Utilities">
-    <img src="https://kingtechnologies.in/assets/images/logo.png" width="80px" alt="Developer Utilities"/>
+    <img src="https://kingtechnologies.in/assets/images/Logo.webp" width="80px" alt="Developer Utilities"/>
   </a>
 </p>
 <h1 align="center">🌟 Developer Utilities 🌟</h1>
@@ -118,9 +118,9 @@ cd Developer-Utilities
 <h3 align="center">💙 If you like this project, Give it a ⭐ and Share it with friends!</h3>
 <h3 align="center">💰 Donations Links</h3>
 <p align="center">
-<a href="https://www.paypal.me/kingrohitJ" title="PayPal"><img src="https://kingtechnologies.in/assets/images/paypal.png" alt="PayPal"/></a>
-<a href="https://www.buymeacoffee.com/rohitjain" title="Buy me a Coffee"><img src="https://kingtechnologies.in/assets/images/coffee.png" alt="Buy me a Coffee"/></a>
-<a href="https://ko-fi.com/rohitjain" title="Ko-fi"><img src="https://kingtechnologies.in/assets/images/kofi.png" alt="Ko-fi"/></a></a>
+<a href="https://www.paypal.me/kingrohitJ" title="PayPal"><img src="https://kingtechnologies.in/assets/images/Paypal.png" alt="PayPal"/></a>
+<a href="https://www.buymeacoffee.com/rohitjain" title="Buy me a Coffee"><img src="https://kingtechnologies.in/assets/images/Coffee.png" alt="Buy me a Coffee"/></a>
+<a href="https://ko-fi.com/rohitjain" title="Ko-fi"><img src="https://kingtechnologies.in/assets/images/Kofi.png" alt="Ko-fi"/></a>
 </p>
 
 <p align="center">Made with JSON & ❤️ in India</p>
