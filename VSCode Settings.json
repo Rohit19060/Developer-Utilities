@@ -69,7 +69,7 @@
     "window.openWithoutArgumentsInNewWindow": "off",
     "window.restoreWindows": "none",
     "workbench.editor.splitSizing": "split",
-    "workbench.startupEditor": "gettingStarted",
+    "workbench.startupEditor": "welcomePageInEmptyWorkbench",
     "workbench.statusBar.visible": true,
     "zenMode.centerLayout": false,
     "zenMode.hideLineNumbers": false,
