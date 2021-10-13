@@ -22,15 +22,15 @@ pm.test("Schema is valid", () => {
     pm.expect(tv4.validate(data1, schema)).to.be.true;
 });
 
-pm.test("Response time is less thaan 200ms", () => {
+pm.test("Response time is less than 200ms", () => {
     pm.expect(pm.response.responseTime).to.be.below(250);
 });
 
-pm.test("Content type is json", () => {
+pm.test("Content type is JSON", () => {
     pm.response.to.be.json;
 });
 
-pm.test("Content type is JSON", () => {
+pm.test("Is Content type present", () => {
     pm.response.to.have.header("Content-Type");
 });
 
