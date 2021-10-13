@@ -102,6 +102,8 @@ cd Developer-Utilities
 
 > [`Alt Code.md`](https://github.com/Rohit19060/Developer-Utilities/blob/main/Alt%20Code.md "Alt Codes"): A Regex file for resetting the screenshot counter of windows.
 
+> [`POstman test`](https://github.com/Rohit19060/Developer-Utilities/blob/main/Postman_Tests.js "Postman Test"): Tests that anyone can use to test the APIs in Postman
+
 ## 🎊 Future Updates
 
 - [x] Add More Utilities
