@@ -73,3 +73,9 @@ pm.test("Schema is valid", () => {
 pm.sendRequest("https://postman-echo.com/get", function (err, response) {
     console.log(response.json());
 });
+
+// Pre Request Script
+var uuid = require("uuid");
+var id = uuid.v4();
+var email = `testUser-${id.slice(id.length - 6)}@unbreakableapi.com`;
+pm.collectionVariables.set("userEmail", email);
