@@ -1,3 +1,11 @@
+// Random Values
+guid:{{$guid}}
+FirstName:{{$randomFirstName}}
+LastName:{{$randomLastName}}
+
+// Get the body Data from key
+console.log(pm.request.body.urlencoded.get("Email"));
+
 pm.test("Status code is 201", () => {
     pm.response.to.have.status(200);
     pm.expect(pm.response.code).to.equal(200);
